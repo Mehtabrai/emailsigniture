@@ -1,0 +1,19 @@
+#one{
+    border-radius: 160px;
+}
+#two{
+    font-weight: normal;
+}
+.two{
+    font-weight: normal;
+    text-align: left;
+    border-top-width:3px ;
+    border-bottom-width:3px ;
+    border-top-color: skyblue;
+    border-bottom-color: skyblue;
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+#three{
+    text-align: center;
+}
